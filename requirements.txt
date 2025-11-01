@@ -1,0 +1,10 @@
+Arduino IDE >= 2.0.0
+Arduino AVR Boards >= 1.8.6
+No external libraries required (uses built-in functions)
+
+Arduino Uno or compatible board
+L298N Motor Driver
+HC-SR04 Ultrasonic Sensor
+IR Line Sensors (x3)
+DC Motors (x2)
+Chassis + Power Supply
